@@ -1,26 +1,31 @@
-# Praktikum Python
+# Laporan Praktikum Machine Learning
 
-## Deskripsi
-Repository ini berisi hasil praktikum Python Minggu 2 dan materi tambahan.
+## Dasar Python dan Preprocessing
 
-## Isi
-- Python Basic
-  - Print, Variabel, Input
-  - If Else
-  - Looping
-  - Function
-  - OOP
+Repositori ini dibuat untuk mendokumentasikan hasil pengerjaan modul praktikum pada mata kuliah Machine Learning. Proyek ini mencakup implementasi dasar pemrograman Python, manipulasi data, analisis statistik, hingga teknik preprocessing data menggunakan pustaka standar industri.
 
-- Data Preprocessing (Bonus)
-  - Data Cleaning
-  - Visualisasi
-  - Encoding
-  - Transformasi Data
+---
 
-## Cara Menjalankan
-1. Buka menggunakan Jupyter Notebook / Google Colab
-2. Jalankan setiap cell
+## Identitas Mahasiswa
 
-## Author
-Nama: Zendry
-NIM: A11.2024.15881
+* **Nama**: Zendry
+* **NIM**: A11.2024.15881
+* **Program Studi**: Teknik Informatika
+* **Instansi**: Universitas Dian Nuswantoro
+
+---
+
+## Deskripsi Proyek
+
+Repositori ini disusun secara sistematis sesuai dengan urutan materi pertemuan praktikum. Fokus utama proyek ini adalah pada:
+
+* Pengaturan environment (setup Python & library)
+* Eksplorasi data awal
+* Analisis dan visualisasi data
+* Teknik preprocessing data
+
+---
+
+## Catatan
+
+Repositori ini dibuat untuk memenuhi tugas praktikum sekaligus sebagai dokumentasi pembelajaran dalam bidang Machine Learning, khususnya pada tahap awal pengolahan data (data preprocessing).
