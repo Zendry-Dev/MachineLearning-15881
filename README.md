@@ -22,4 +22,5 @@ Repository ini berisi hasil praktikum Python Minggu 2 dan materi tambahan.
 2. Jalankan setiap cell
 
 ## Author
-Nama: (ISI NAMA KAMU)# MachineLearning-15881
+Nama: Zendry
+NIM: A11.2024.15881
